@@ -55,6 +55,7 @@ if __name__ == "__main__":
     setup(
         name=NAME,
         version=get_version(),
+        version name=programming ,
         description=DESCRIPTION,
         license=LICENSE,
         author=AUTHOR,
